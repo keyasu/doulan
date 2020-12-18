@@ -1,1 +1,15 @@
-123
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "ABCD1234.com.aaa.app",
+                "paths": [ "/info/*", "/mobile/*"]
+            },
+            {
+                "appID": "L2Z94BFC7Q.com.doulanlive.app",
+                "paths": [ "*" ]
+            }
+        ]
+    }
+}
